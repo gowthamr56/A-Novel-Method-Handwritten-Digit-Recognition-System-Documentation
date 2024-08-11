@@ -1,4 +1,4 @@
-# A-Novel-Method-Handwritten-Digit-Recognition-System-Documentation
+# A Novel Method Handwritten Digit Recognition System
 Handwritten Digit Recognition System is my final year project that recognises the digits from the image we provide as an image. It recognises handwritten digits as well as normal digits.
 ### Links 🔗
 📌 [Publication](https://www.doi.org/10.59256/ijire.2023040216)<br>
